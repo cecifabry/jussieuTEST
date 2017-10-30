@@ -390,7 +390,8 @@ hr
 .member-title
 {
     font-family: "Coda";
-    margin-bottom: 15px;
+    margin-bottom: 12px;
+    font-size: 12px;
 }
 #team h2
 {
@@ -401,7 +402,7 @@ hr
 {
     text-align: center;
     font-family: 'Raleway', sans-serif;
-    font-size: 15px;
+    font-size: 12px;
 }
 .team-member-description 
 {
