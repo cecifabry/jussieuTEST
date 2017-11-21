@@ -2,7 +2,14 @@
 * 	Owl Carousel Owl Demo Theme 
 *	v1.3.3
 */
-
+.owl-theme {
+	position: relative;
+}
+.owl-controls {
+	position: absolute;
+	top: -50px;
+	left: 47%;
+}
 .owl-theme .owl-controls{
 	margin-top: 10px;
 	text-align: center;
