@@ -13,6 +13,9 @@
     box-shadow: none;
 }
 
+h3 {
+    margin-bottom: 20px;
+}
 a {
     color: rgb(32, 178, 170);
 }
