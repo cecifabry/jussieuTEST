@@ -397,8 +397,10 @@ hr
 .member-title
 {
     font-family: "Coda";
-    margin-bottom: 12px;
+    line-height: 16px;
     font-size: 12px;
+    margin-bottom: 0px;
+    margin-top: 5px;
 }
 #team h2
 {
